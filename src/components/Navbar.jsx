@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
     return (
-        <div className="navbar max-w-full flex justify-between items-center">
+        <div className="navbar">
             <div className="flex-1">
                 <a className="btn btn-ghost text-xl">daisyUI</a>
             </div>
